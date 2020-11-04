@@ -99,4 +99,4 @@ async def on_command_error(ctx, error):
 		color = discord.Color.red())
 		await ctx.send(embed=e)
 
-client.run(token)
+client.run(NzY0Nzc2NjE2NTA4OTE1NzEy.X4LLug.XrZZjH0oZMt9dSmRCEU-ccSudnk)
